@@ -10,9 +10,9 @@
 - **IDE Sugerido:** NetBeans, Eclipse, IntelliJ IDEA o VS Code.
 
 ## Descripción del Proyecto
-Este algoritmo revisa cada elemento de una lista o arreglo con el adyacente, intercambiándolos de posición si están en el orden equivocado.
-1. Clase Burbuja: Esta clase contiene los métodos estáticos encargados de procesar la lógica de ordenamiento y el formato de visualización del arreglo.
-2. Main Burbuja: Esta clase contiene el método principal (main) que actúa como punto de entrada del programa para instanciar datos y probar los métodos de ordenamiento e impresión.
+
+1. Clase Regresion Lineal: La regresión lineal simple es un método estadístico y numérico que permite modelar la relación funcional entre una variable independiente (X) y una variable dependiente (Y).
+2. Main: Esta clase contiene el método principal (main) que actúa como punto de entrada del programa para instanciar datos y probar los métodos de ordenamiento e impresión.
 
 
 ## Instrucciones de Ejecución
