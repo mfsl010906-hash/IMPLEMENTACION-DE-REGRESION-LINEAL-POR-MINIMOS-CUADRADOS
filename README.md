@@ -1,0 +1,2 @@
+# IMPLEMENTACION-DE-REGRESION-LINEAL-POR-MINIMOS-CUADRADOS
+tarea 2 unidad 5 metodos numericos
